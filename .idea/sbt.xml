@@ -5,6 +5,14 @@
       <SbtProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:\Downloads\funsets\funsets" />
+            <option value="C:\Downloads\funsets\funsets\project" />
+            <option value="C:\Downloads\funsets\funsets\submission" />
+            <option value="C:\Downloads\funsets\funsets\submission\project" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </SbtProjectSettings>
     </option>

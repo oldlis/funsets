@@ -4,7 +4,7 @@
 		module="progfun-funsets$sources_2.10"
 		revision="1.0.0"
 		status="integration"
-		publication="20140514160531"
+		publication="20140514183505"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
